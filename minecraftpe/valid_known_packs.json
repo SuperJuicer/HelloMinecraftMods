@@ -21,6 +21,13 @@
 	
 	{
 		"file_system" : "RawPath",
+		"path" : "C:/Users/wisco/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/treatments/treatment_packs2/pYJbYkBkAAA=",
+		"uuid" : "1a5f11d6-4a14-4cc1-a795-8e5bb4d4cfc0",
+		"version" : "1.0.6"
+	},
+	
+	{
+		"file_system" : "RawPath",
 		"from_disk" : true,
 		"hashes" : 
 		[
@@ -36,9 +43,30 @@
 	
 	{
 		"file_system" : "RawPath",
-		"path" : "C:/Users/wisco/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/treatments/treatment_packs2/pYJbYkBkAAA=",
-		"uuid" : "1a5f11d6-4a14-4cc1-a795-8e5bb4d4cfc0",
-		"version" : "1.0.6"
+		"path" : "C:/Users/wisco/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/treatments/treatment_packs2/eusFYnBjAAA=",
+		"uuid" : "59cac2b4-2291-469b-be69-5dc200ffd51b",
+		"version" : "1.0.3"
+	},
+	
+	{
+		"file_system" : "InAppPackage",
+		"path" : "behavior_packs/vanilla_1.16.220",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.220"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : 
+		[
+			"Z8kEdqgvYFJBtDorFKk9bXk4yzshKB7RT/3TmIm5Xoo=",
+			"BPyy8HRg/UjAU/tbczQGHzdxLUWx+cLwBewYFQB/y74=",
+			"MoM4esbRw+h5tVcbl5NB1SNVxQFli0B+XLKNd4Zuq4E="
+		],
+		"path" : "C:/Users/wisco/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_behavior_packs/My_BEHAVIOR_Pack",
+		"uuid" : "21cd0620-7021-4779-bb76-3b0bae299c85",
+		"version" : "1.0.0"
 	},
 	
 	{
@@ -74,13 +102,6 @@
 		"path" : "C:/Users/wisco/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/treatments/treatment_packs2/8gdqYpZeAAA=",
 		"uuid" : "5756647a-f203-4f74-8ea5-94b57912b14b",
 		"version" : "1.0.2"
-	},
-	
-	{
-		"file_system" : "RawPath",
-		"path" : "C:/Users/wisco/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/treatments/treatment_packs2/eusFYnBjAAA=",
-		"uuid" : "59cac2b4-2291-469b-be69-5dc200ffd51b",
-		"version" : "1.0.3"
 	},
 	
 	{
@@ -400,13 +421,6 @@
 	
 	{
 		"file_system" : "InAppPackage",
-		"path" : "behavior_packs/vanilla_1.16.220",
-		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
-		"version" : "1.16.220"
-	},
-	
-	{
-		"file_system" : "InAppPackage",
 		"path" : "behavior_packs/vanilla_1.17.10",
 		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
 		"version" : "1.17.10"
@@ -424,19 +438,6 @@
 		"path" : "behavior_packs/experimental_spectator",
 		"uuid" : "4bde72a9-966d-426b-8402-2a27965a27cb",
 		"version" : "0.0.1"
-	},
-	
-	{
-		"file_system" : "RawPath",
-		"from_disk" : true,
-		"hashes" : 
-		[
-			"Z8kEdqgvYFJBtDorFKk9bXk4yzshKB7RT/3TmIm5Xoo=",
-			"BPyy8HRg/UjAU/tbczQGHzdxLUWx+cLwBewYFQB/y74="
-		],
-		"path" : "C:/Users/wisco/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_behavior_packs/My_BEHAVIOR_Pack",
-		"uuid" : "a5e625d5-85f9-4bce-bca4-ecd85ed141e3",
-		"version" : "1.0.0"
 	},
 	
 	{
