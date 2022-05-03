@@ -1,3 +1,5 @@
 // Minecraft needs a .gitignore!
 
 *.dat
+minecraftpe/
+minecraftWorlds/
