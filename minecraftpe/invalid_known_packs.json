@@ -8,15 +8,6 @@
 	{
 		"file_system" : "RawPath",
 		"from_disk" : true,
-		"hashes" : [ "gc9MQR+ZUuk6kivtMInudDFbammayhdk5vdSMVUzFP4=" ],
-		"path" : "C:/Users/wisco/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_behavior_packs/MadCows",
-		"uuid" : "b0a8678e-f62f-47c7-b74c-0a4e740be10a",
-		"version" : "1.0.0"
-	},
-	
-	{
-		"file_system" : "RawPath",
-		"from_disk" : true,
 		"hashes" : [ "pNuIlvmHQFUa2E456xzjlGZ39jAkuL2bA3kP0hKc77M=" ],
 		"path" : "C:/Users/wisco/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_behavior_packs/robot_example_min_behavior",
 		"uuid" : "6eaedf14-74c0-49e1-907d-3a8974cb006b",
